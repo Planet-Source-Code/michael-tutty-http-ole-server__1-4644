@@ -1,0 +1,10 @@
+HTTPServiceRequest = 163, 104, 610, 679, CZ
+modHTTPUtil = 0, 0, 0, 0, C
+modHTTPServMain = 219, 191, 666, 598, C
+frmHTTPMonitor = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DelimitedString = 0, 0, 0, 0, C
+Server = 163, 104, 610, 679, 
+HTTPParameter = 0, 0, 0, 0, C
+HTTPParameterList = 0, 0, 0, 0, C
+HTTPHeaderList = 0, 0, 0, 0, C
+HTTPHeader = 0, 0, 0, 0, C
