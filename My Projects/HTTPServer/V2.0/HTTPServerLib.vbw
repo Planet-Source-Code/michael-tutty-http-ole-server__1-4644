@@ -1,0 +1,16 @@
+HTTPServiceRequest = 148, 444, 825, 932, 
+modHTTPUtil = 154, 104, 601, 679, C
+modHTTPServMain = 391, 405, 838, 812, C
+frmHTTPMonitor = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+DelimitedString = 154, 104, 601, 679, C
+HTTPServer = 371, 181, 824, 708, C
+HTTPParameter = 0, 0, 0, 0, C
+HTTPParameterList = 0, 0, 0, 0, C
+HTTPHeaderList = 0, 0, 0, 0, C
+HTTPHeader = 0, 0, 0, 0, C
+frmServer = 173, 120, 620, 695, C, 0, 0, 0, 0, C
+modSockServMain = 154, 104, 601, 679, C
+SocketConnection = 74, 146, 737, 721, 
+SocketServer = 235, 329, 682, 904, 
+ISocketFactory = 0, 0, 0, 0, C
+ILogProvider = 154, 104, 601, 679, C
